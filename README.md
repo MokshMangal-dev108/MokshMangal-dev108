@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii there, Ajay here, Final Year UG student ,CSE Dept. from Indian Institute of Information Technology Dharwad.<br>I'm currently working as advocate for the Cypher Blockchain and CapX Community .<br>Passionate backend and Web3 developer.<br>Seeking opportunities in Web3 Space.<br>Winner of EthIndia'23 in Scroll Track.<br>Love to contribute to the cool builds.<br>
+Hii there, Moksh here, Final Year UG student ,CSE Deptartment from Indian Institute of Information Technology Dharwad.<br>Passionate backend developer, and also i am good in problem solving skills.
 
 
 ## 🌐 Socials:
