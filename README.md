@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii there, Moksh here, Final Year UG student ,CSE Deptartment from Indian Institute of Information Technology Dharwad.<br>Passionate backend developer, and also i have good  problem solving skills. I work with c++,java,spring-boot, and i also have experience to develop microservices and with good knowledge of design principles.
+Hii there, Moksh here, Final Year UG student ,CSE Deptartment from Indian Institute of Information Technology Dharwad.<br>Passionate backend developer, and also i have good  problem solving skills. I work with c++, java, spring-boot and i also have experience to develop microservices and with good knowledge of design principles.
 
 
 ## 🌐 Socials:
